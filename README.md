@@ -82,6 +82,8 @@ AMD 的芯片组驱动会自动安装最新的适用于 AMD 的 ppkg，因此直
 
 ## 参考文献：
 
+[小记 windows 电源管理 - LibXZR 的小本本](https://blog.xzr.moe/archives/352/)
+
 [哎，感觉Win11真的烂完了，SB微软阿三 NGA玩家社区](https://nga.178.com/read.php?tid=42028135)
 
 [关于Intel/AMD/笔记本OEM是如何通过Provisioning来覆盖Windows默认电源设置的调查 NGA玩家社区](https://nga.178.com/read.php?tid=40549025)
